@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="affdb6b2-69f5-45b1-8baf-e6a71e1a58ad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2/index.html" afterPath="$PROJECT_DIR$/lesson2/index.html" />
     </list>
     <ignored path="DmytroVakoliuk.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,8 +60,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lesson2/index.html" />
         <option value="$PROJECT_DIR$/lesson2/css/index.css" />
+        <option value="$PROJECT_DIR$/lesson2/index.html" />
       </list>
     </option>
   </component>
@@ -73,8 +72,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="331" />
-    <option name="y" value="206" />
+    <option name="x" value="213" />
+    <option name="y" value="133" />
     <option name="width" value="863" />
     <option name="height" value="567" />
   </component>
@@ -217,15 +216,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1466866451333</updated>
-      <workItem from="1466866463131" duration="310000" />
+      <workItem from="1466866463131" duration="967000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="310000" />
+    <option name="totallyTimeSpent" value="967000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="331" y="206" width="863" height="567" extended-state="0" />
+    <frame x="213" y="133" width="863" height="567" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28852838" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
